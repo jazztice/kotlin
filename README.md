@@ -1,2 +1,2 @@
 # kotlin
-Desarrollo apps kotlin
+Desarrollo apps en kotlin
